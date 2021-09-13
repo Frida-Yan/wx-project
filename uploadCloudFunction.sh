@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e my-project-bqgij --n quickstartFunctions --r --project "/Users/frida/Desktop/项目开发/wx-project" --report
